@@ -11,7 +11,7 @@ public/media/
 .env
 .php_cs.cache
 /storage/debugbar
-#/storage/tmp
+/storage/tmp
 /storage/medialibrary
 /log
 .phpunit.result.cache

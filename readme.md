@@ -16,4 +16,5 @@ $ cd Laravel-docker
 $ cp .env.example .env
 $ docker-compose up -d
 $ docker exec -it lemp_php-fpm composer install
+$ docker exec -it lemp_php-fpm php artisan key:generate
 ```
